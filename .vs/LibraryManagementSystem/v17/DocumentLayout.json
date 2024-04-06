@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ezadi\\onedrive\\desktop\\new folder (9)\\library-management-system-using-csharp\\librarymanagementsystem\\librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:LibraryManagementSystem\\IssueBooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:LibraryManagementSystem\\AddBooks.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:LibraryManagementSystem\\AddBooks.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:LibraryManagementSystem\\Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:51:19.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAewDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:47:59.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:17:20.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnBooks.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnBooks.cs*",
+              "ViewState": "AQIAAHUAAAAAAAAAAAASwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:53:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:51:28.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:07:52.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:21:26.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:23:04.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:49:26.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBooks.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAIAwwMgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:48:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:53:28.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.resx",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.resx",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.resx",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-01T11:08:44.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:08:22.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\RegisterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:22:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:06:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:06:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:53:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddBooks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.Designer.cs",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.Designer.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:48:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddBooks.resx",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.resx",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.resx",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.resx",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-27T19:48:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.resx",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.resx",
+              "ToolTip": "C:\\Users\\ezadi\\OneDrive\\Desktop\\New folder (9)\\Library-Management-System-using-CSharp\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.resx",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-27T19:48:11.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
